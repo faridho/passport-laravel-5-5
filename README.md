@@ -19,6 +19,6 @@ php artisan serve
 |---|---|
 |  http://localhost:8080/register | Create token when registration new user
 | http://localhost:8080/login | Login and create new token 
-|  http://localhost:8080/detail |Access endoint use token 
+|  http://localhost:8080/detail |Access endpoint use token 
 
 
